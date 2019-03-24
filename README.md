@@ -1,6 +1,6 @@
 #Usage
 
-1- cd Spider-Index
+1- cd Spiders-Index
 
 2- ls
 
